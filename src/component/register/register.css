@@ -1,0 +1,44 @@
+body {
+	background-image:url('./swirl_pattern.png') 
+}
+
+.register {
+	text-align: center;
+	background-color: rgb(26, 128, 127);
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	padding: 40px;
+	border-radius: 5px;
+	
+}
+
+.register input {
+	border-radius:5px; 
+	margin: 5px;
+	padding: 5px;
+	width: 230px;
+	background-color: rgb(184, 22, 22);
+	text-align: center;
+	font-size: 40px;
+	font-family:'Times New Roman', Times, serif;
+	color: white;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+	font-family: "Transformers", serif;
+	font-size: 80px;
+}
+
+button {
+	border-radius:5px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+button a:hover {
+	color: aquamarine;
+}

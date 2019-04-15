@@ -1,0 +1,16 @@
+.home {
+    margin: 100px;
+    text-align: center;
+    font-size: 100px;
+}
+
+.home a:hover {
+    color:rgb(143, 20, 16);
+}
+
+.link {
+    color: rgb(28, 131, 145);
+    margin: 20px;
+    text-decoration: none;
+    font-family: "Transformers", serif;
+}

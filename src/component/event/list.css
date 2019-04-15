@@ -1,0 +1,17 @@
+.list {
+    margin: 10% 28%;
+    padding: 3%;
+    border-radius: 10px;
+    background: rgb(16, 211, 211);
+    text-align: center;
+}
+
+.list input {
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
+	width: 60%;
+	background-color: white;
+	text-align: center;
+	font-size: 100%;
+}
